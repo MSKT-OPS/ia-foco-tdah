@@ -55,8 +55,8 @@ Explorar fontes sobre o TDAH usando NotebookLM, testar prompts e documentar a ap
 ---
 
 🧩 Engenharia de Prompts e “Cicatrizes”
-                                                                                                                                  Pergunta 1
-**Quais são os riscos do uso excessivo de IA?**
+Pergunta 1
+Quais são os riscos do uso excessivo de IA?**
 
  Resposta obtida
 De acordo com as fontes, o uso excessivo e indiscriminado de Inteligência Artificial (IA) apresenta riscos significativos que abrangem:
@@ -76,7 +76,7 @@ De acordo com as fontes, o uso excessivo e indiscriminado de Inteligência Artif
 Eu fui desenvolvendo os prompt, e saiu esta resposta que achei interessante.
 
 Pergunta 2
-**Quais prompts usar para planejar blocos de estudo?**
+Quais prompts usar para planejar blocos de estudo?**
 
 Resposta obtida
 Para planejar blocos de estudo eficientes, especialmente considerando a necessidade de estrutura para quem tem TDAH, as fontes recomendam a Engenharia de Prompts.  
@@ -111,35 +111,35 @@ Cicatriz
 Eu ainda estou aprendendo, mais acho que a resposta não foi 100% boa, mas não foi ruim.
 
 Pergunta 3
-**Como usar a IA para criar micro-metas de estudo?
+Como usar a IA para criar micro-metas de estudo?
 
 Resposta obtida
 O uso da Inteligência Artificial (IA) para a criação de micro-metas de estudo é uma estratégia poderosa para compensar dificuldades em funções executivas, como planejamento e organização.  
 A IA atua como um "copiloto" cognitivo, transformando objetivos vagos em sequências de tarefas curtas, claras e realizáveis.
 
 Estratégias fundamentais:
-1. **Aplicação da Engenharia de Prompts**  
+1. Aplicação da Engenharia de Prompts**  
    - Persona: peça à IA para agir como um mentor de produtividade especializado em TDAH.  
    - Contexto: informe quanto tempo você tem disponível e o tema exato do estudo.  
    - Público-alvo: especifique seu nível de escolaridade.  
    - Objetivo: solicite que a tarefa seja dividida em micro-tarefas sequenciais que caibam em blocos de tempo específicos.  
 
-2. **Arquitetura de Micro-metas e Foco**  
+2. Arquitetura de Micro-metas e Foco**  
    - Em vez de metas genéricas como "estudar história", utilize a IA para criar uma "Arquitetura de Foco".  
    - Forneça um texto denso ou plano de aula e peça que seja fracionado em etapas de 20 a 25 minutos.  
    - Isso cria microestruturas de segurança, tornando o progresso visível e reduzindo a ansiedade.  
 
-3. **Sinergia com o Método Pomodoro**  
+3. Sinergia com o Método Pomodoro**  
    - Planejamento: a IA define o que deve ser feito em cada ciclo de 25 minutos.  
    - Pausas: peça sugestões de atividades curtas para intervalos de 5 minutos.  
    - Execução: durante o bloco de foco, use a IA para obter explicações rápidas de termos complexos.  
 
-4. **Ferramentas recomendadas**  
+4. Ferramentas recomendadas**  
    - ChatGPT e Gemini: para decompor planos de estudo e criar explicações customizadas.  
    - Magic School e Teachy: para adaptar conteúdos e gerar sequências didáticas estruturadas.  
    - Canva AI e Gamma: para transformar micro-metas em suportes visuais ou apresentações.  
 
-5. **Mediação e senso crítico**  
+5. Mediação e senso crítico**  
    - Embora a IA facilite o planejamento, o controle deve permanecer com você.  
    - É fundamental revisar e ajustar as micro-metas geradas, garantindo que atendam às suas necessidades.  
    - A IA fornece o esboço inicial, mas o engajamento ativo é o que consolida a aprendizagem.  
@@ -153,22 +153,22 @@ Cicatriz
 Achei simples da melhorar muito ainda.
 
 Pergunta 4
-**IA ajuda no controle emocional de adultos com TDAH?**
+IA ajuda no controle emocional de adultos com TDAH?**
 
 Resposta obtida
 A Inteligência Artificial (IA) pode auxiliar no controle emocional de adultos com TDAH, mas deve ser vista como ferramenta de suporte multimodal e não como substituto para tratamento clínico profissional.  
 De acordo com as fontes, a IA ajuda de forma direta, como suporte emocional imediato, e indireta, ao reduzir o estresse provocado pela desorganização.
 
 Principais formas de auxílio:
-1. **IA como Suporte Emocional e "Confidente"**  
+1. IA como Suporte Emocional e "Confidente"**  
    - Algumas pessoas utilizam chatbots para desabafar ou pedir conselhos, tratando a IA como um "amigo" disponível 24h.  
    - Pode funcionar como ambiente seguro para quem tem timidez de falar com outras pessoas.  
 
-2. **Redução da Ansiedade por meio da Organização**  
+2. Redução da Ansiedade por meio da Organização**  
    - Ferramentas de agenda e planejamento ajudam a estruturar compromissos e reduzir a sobrecarga de informações.  
    - O uso da IA no Método Pomodoro cria microestruturas de segurança, tornando tarefas mais alcançáveis e menos estressantes.  
 
-3. **Potencial para Diagnóstico e Monitoramento**  
+3. Potencial para Diagnóstico e Monitoramento**  
    - A IA pode realizar análise de sentimentos em textos e identificar padrões emocionais.  
    - Existe potencial para identificar necessidades socioemocionais, mas sempre exigindo interpretação profissional.  
 
@@ -188,27 +188,27 @@ Cicatriz
 Achei interessante na verdade, sempre bom aprender sobre.
 
 Pergunta 5
-**Quais sinais indicam que o adulto precisa de medicação?**
+Quais sinais indicam que o adulto precisa de medicação?**
 
 Resposta obtida
 A decisão de iniciar o tratamento medicamentoso em adultos com TDAH baseia-se na gravidade dos sintomas e no nível de prejuízo funcional que o transtorno causa em diferentes áreas da vida.  
 De acordo com as fontes, os principais sinais e critérios que indicam a necessidade de medicação são:
 
-1. **Gravidade e Persistência dos Sintomas**  
+1. Gravidade e Persistência dos Sintomas**  
 - O adulto deve apresentar pelo menos cinco sintomas de desatenção ou de hiperatividade/impulsividade.  
 - Esses sintomas devem estar presentes de forma persistente por, no mínimo, seis meses.  
 - É fundamental que os sintomas tenham tido início antes dos 12 anos de idade, mesmo que o diagnóstico só ocorra na fase adulta.  
 
-2. **Comprometimento Funcional Significativo**  
+2. Comprometimento Funcional Significativo**  
 - A medicação é indicada quando os sintomas interferem diretamente na capacidade do indivíduo de ser funcional em pelo menos dois contextos diferentes (como trabalho, vida social ou familiar).  
 - Exemplos: dificuldade em cumprir prazos, manter foco em reuniões, organizar tarefas complexas, resistência em aderir a rotinas diárias e baixa autoestima decorrente de falhas repetidas.  
 
-3. **Presença de Comportamentos de Risco**  
+3. Presença de Comportamentos de Risco**  
 - Abuso de substâncias como álcool, drogas ou nicotina, muitas vezes como tentativa inadequada de autotratamento.  
 - Maior propensão a acidentes, incluindo no trânsito, e envolvimento em atividades de risco ou práticas delitivas.  
 - Comportamento impulsivo, como decisões precipitadas sem avaliar consequências, afetando estabilidade financeira e relacionamentos.  
 
-4. **Falha em Abordagens Não Medicamentosas**  
+4. Falha em Abordagens Não Medicamentosas**  
 - Em alguns contextos, como o europeu, a medicação é reservada para casos graves ou para casos leves que não respondem ao tratamento não farmacológico (como psicoterapia).  
 - Mesmo com Terapia Cognitivo-Comportamental (TCC), a medicação pode ser necessária para controlar sintomas residuais, sendo que a combinação de ambos apresenta resultados superiores.  
 
@@ -229,27 +229,27 @@ De acordo com as fontes, o TDAH é clinicamente caracterizado por prejuízos no 
 Embora não seja descrito como uma "vantagem" intrínseca, as estratégias de adaptação podem transformar o modo como você interage com o mundo.
 
 Perspectivas para usar o TDAH a seu favor:
-1. **Construção de Pontos Fortes Individuais**  
+1. Construção de Pontos Fortes Individuais**  
    - O diagnóstico deve considerar não apenas deficiências, mas também como a mente processa informações de forma única.  
    - Profissionais de saúde ajudam a identificar e estimular pontos fortes individuais.  
 
-2. **Aproveitamento do Sistema de Recompensa**  
+2. Aproveitamento do Sistema de Recompensa**  
    - O cérebro com TDAH responde intensamente a mecanismos dopaminérgicos.  
    - Estratégias como gamificar tarefas e usar feedback imediato da IA mantêm o engajamento.  
 
-3. **Criatividade e Pensamento Multimodal**  
+3. Criatividade e Pensamento Multimodal  
    - Pessoas com TDAH respondem bem a abordagens multimodais (vídeos, imagens, tecnologia).  
    - Esse estilo pode ser uma vantagem em áreas criativas e inovadoras.  
 
-4. **Alta Energia e Hiperfoco Gerenciado**  
+4. Alta Energia e Hiperfoco Gerenciado  
    - A hiperatividade, quando canalizada, pode se traduzir em períodos de alta produtividade.  
    - Técnicas como o Método Pomodoro ajudam a cultivar foco saudável.  
 
-5. **Metacognição e Autoconhecimento**  
+5. Metacognição e Autoconhecimento  
    - A Terapia Cognitivo-Comportamental (TCC) desenvolve metacognição e estratégias compensatórias.  
    - Adultos com TDAH podem superar a eficiência de pessoas neurotípicas em organização e planejamento.  
 
-**Alerta importante**  
+6.Alerta importante 
 Usar o TDAH a seu favor só é possível quando o transtorno é reconhecido e gerenciado adequadamente.  
 Sem suporte multimodal (terapia, medicação e ferramentas de apoio), os riscos de falha ocupacional ou social aumentam.  
 
@@ -279,8 +279,6 @@ Todas as repostas trouxeram muitos aprendizados, mais ainda não era 100% objeti
 - “Explique [conceito] de forma simples e com exemplos.”  
 - “Transforme estas notas em tópicos e flashcards.”  
 - “Sugira pausas rápidas para relaxar entre blocos de estudo.”  
-
----
 
 ## Conclusão
 Este projeto foi feito como parte do desafio da DIO.  
